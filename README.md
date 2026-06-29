@@ -1,17 +1,17 @@
 # Sharafat Ali — SEO & AI Search Visibility Specialist
 
-> I help local service businesses rank on Google and get cited by AI platforms like ChatGPT, Gemini, and Google AI Overviews — without paid ads.
+> I help local service businesses rank on Google and get cited by AI platforms like ChatGPT, Gemini, and Google AI Overviews without paid ads.
 
 ## What I Do
 
 I build structured SEO systems that work across both traditional search and AI-generated answers.
 
-Most local businesses lose leads not because of competition — but because their SEO foundation is broken at the structural level. I fix that.
+Most local businesses lose leads not because of competition, but because their SEO foundation is broken at the structural level. I fix that.
 
 **My focus:**
 - Local SEO & Google Business Profile (Map Pack ranking)
-- AI Search Visibility — AEO (Answer Engine Optimization) & GEO (Generative Engine Optimization)
-- Technical SEO — crawl architecture, schema, Core Web Vitals
+- AI Search Visibility AEO (Answer Engine Optimization) & GEO (Generative Engine Optimization)
+- Technical SEO crawl architecture, schema, Core Web Vitals
 - Search Experience Optimization (SXO) — turning traffic into leads
 
 ## Proof of Work
