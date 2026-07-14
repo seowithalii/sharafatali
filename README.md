@@ -18,7 +18,7 @@ Most local businesses lose leads not because of competition, but because their S
 
 | Result | Context |
 |---|---|
-| **156,000 organic impressions** in 6 months from near-zero | CodeSol Technologies (GA4, Jan–Jun 2026) |
+| **156,000 organic impressions** in 6 months from near-zero | [CodeSol Technologies](https://www.codesoltech.com/) (GA4, Jan–Jun 2026) |
 | **Sessions up 270%, active users up 265%** | Same period |
 | **#1 AI Search Visibility at 69%** on Ubersuggest | Outpaced Thrive (31%), KEYSS Inc (25%), Turn Up (25%) |
 | **47% Share of Voice** in AI-generated answers via HubSpot AEO | Ahead of Accenture (18%), Cognizant (12%), Thrive (12%) |
