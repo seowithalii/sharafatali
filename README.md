@@ -4,7 +4,7 @@
 
 ## What I Do
 
-I build structured SEO systems that work across both traditional search and AI-generated answers.
+I build structured SEO systems that work across both traditional search and AI-generated answers. Alongside local businesses, I also build SaaS software, [PandaCue](https://pandacue.com/) Pre launch seo Strategy to capture the market.
 
 Most local businesses lose leads not because of competition, but because their SEO foundation is broken at the structural level. I fix that.
 
